@@ -1,0 +1,1 @@
+# Krakend-json-value-mapper
